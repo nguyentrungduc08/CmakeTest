@@ -1,0 +1,3 @@
+/home/hydra/Desktop/CmakeTest/build/CMakeFiles/edit_cache.dir
+/home/hydra/Desktop/CmakeTest/build/CMakeFiles/rebuild_cache.dir
+/home/hydra/Desktop/CmakeTest/build/CMakeFiles/Tutorial.dir
