@@ -6,5 +6,5 @@ CXX_FLAGS =
 
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/hydra/Desktop/CmakeTest/build 
+CXX_INCLUDES = -I/home/hydra/Desktop/CmakeTest/Tut1/build 
 

@@ -6,11 +6,15 @@
 
 #IncludeRegexTransform: 
 
-/home/hydra/Desktop/CmakeTest/tutorial.cxx
+/home/hydra/Desktop/CmakeTest/Tut1/tutorial.cxx
 stdio.h
 -
 stdlib.h
 -
 math.h
 -
+TutorialConfig.h
+/home/hydra/Desktop/CmakeTest/Tut1/TutorialConfig.h
+
+TutorialConfig.h
 

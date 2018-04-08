@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/hydra/Desktop/CmakeTest/tutorial.cxx" "/home/hydra/Desktop/CmakeTest/build/CMakeFiles/Tutorial.dir/tutorial.cxx.o"
+  "/home/hydra/Desktop/CmakeTest/Tut1/tutorial.cxx" "/home/hydra/Desktop/CmakeTest/Tut1/build/CMakeFiles/Tutorial.dir/tutorial.cxx.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
